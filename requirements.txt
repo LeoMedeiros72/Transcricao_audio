@@ -1,0 +1,2 @@
+echo "speechrecognition" > requirements.txt
+echo "pydub" >> requirements.txt
